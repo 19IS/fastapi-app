@@ -38,7 +38,7 @@ def create_news(news: CreateNewsSchema):
     except DuplicateKeyError:
         raise HTTPException(
             status_code=status.HTTP_409_CONFLICT,
-            detail=f"Пост с заголовком '{news.title}' уже существует"
+            detail=f"Новость с заголовком '{news.title}' уже существует"
         )
 
 
