@@ -1,137 +1,103 @@
 [{
   "_id": {
-    "$oid": "640b30c592e205aa2344cc4f"
+    "$oid": "640b756696cd56efe7962fe8"
   },
-  "title": "Новость 1",
-  "content": "Содержание новости 1",
-  "image": null,
+  "title": "МИД ПМР направил обращения генеральному секретарю и в Совбез ООН, а также участникам формата «5+2»",
+  "content": "Все они связаны с предотвращенным терактом",
+  "image": "https://mid.gospmr.org/sites/default/files/image/2018/02/1_0.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678454981755"
+      "$numberLong": "1678472550810"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678454981755"
+      "$numberLong": "1678472550810"
     }
   }
 },{
   "_id": {
-    "$oid": "640b30cc92e205aa2344cc50"
+    "$oid": "640b784e96cd56efe7962fe9"
   },
-  "title": "Новость 2",
-  "content": "Содержание новости 2",
-  "image": null,
+  "title": "Обращение Президента ПМР к приднестровцам в связи с предотвращенным террористическим актом",
+  "content": "Президент ПМР Вадим Красносельский обратился к приднестровцам в связи с предотвращенным террористическим актом.",
+  "image": "https://novostipmr.com/sites/default/files/filefield_paths/photo_2022-07-04_17-05-58.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678454988433"
+      "$numberLong": "1678473294173"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678454988433"
+      "$numberLong": "1678473294173"
     }
   }
 },{
   "_id": {
-    "$oid": "640b30d092e205aa2344cc51"
+    "$oid": "640b78c996cd56efe7962fea"
   },
-  "title": "Новость 3",
-  "content": "Содержание новости 3",
-  "image": null,
+  "title": "В Тирасполе планируют достроить девятиэтажку на улице Текстильщиков",
+  "content": "Работы рассчитывают завершить к концу 2024 года, рассказал Президенту глава столицы",
+  "image": "https://wikiway.com/upload/hl-photo/402/3ed/tiraspol_98.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678454992524"
+      "$numberLong": "1678473417510"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678454992524"
+      "$numberLong": "1678473417510"
     }
   }
 },{
   "_id": {
-    "$oid": "640b30d492e205aa2344cc52"
+    "$oid": "640b7c6f275d5385c713cb83"
   },
-  "title": "Новость 4",
-  "content": "Содержание новости 4",
-  "image": null,
+  "title": "Итоги недели: Обстановка в Приднестровье и памятные даты",
+  "content": "В обзоре также расскажем о принятых законопроектах и инициативах исполнительных органов власти",
+  "image": "https://www.omnivagant.com/wp-content/uploads/2019/09/023A9602-1200x800.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678454996024"
+      "$numberLong": "1678474351490"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678454996024"
+      "$numberLong": "1678474351490"
     }
   }
 },{
   "_id": {
-    "$oid": "640b30d792e205aa2344cc53"
+    "$oid": "640b7d8a275d5385c713cb84"
   },
-  "title": "Новость 5",
-  "content": "Содержание новости 5",
-  "image": null,
+  "title": "Вадим Красносельский принял постоянного представителя США при ОБСЕ",
+  "content": "Собеседники подчеркнули важность сохранения переговорных форматов и продолжения диалога",
+  "image": "https://novostipmr.com/sites/default/files/filefield_paths/054055048055056.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678454999691"
+      "$numberLong": "1678474634239"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678454999691"
+      "$numberLong": "1678474634239"
     }
   }
 },{
   "_id": {
-    "$oid": "640b30da92e205aa2344cc54"
+    "$oid": "640b7df0275d5385c713cb85"
   },
-  "title": "Новость 6",
-  "content": "Содержание новости 6",
-  "image": null,
+  "title": "Президент признал работу каменской госадминистрации в 2022 году удовлетворительной",
+  "content": "Вадим Красносельский призвал различные структуры к конструктивному взаимодействию для решения общих задач",
+  "image": "https://novostipmr.com/sites/default/files/filefield_paths/photo_2022-07-04_16-48-28.jpg",
   "created_at": {
     "$date": {
-      "$numberLong": "1678455002920"
+      "$numberLong": "1678474736860"
     }
   },
   "updated_at": {
     "$date": {
-      "$numberLong": "1678455002920"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "640b30e292e205aa2344cc56"
-  },
-  "title": "Новость 8",
-  "content": "Содержание новости 8",
-  "image": null,
-  "created_at": {
-    "$date": {
-      "$numberLong": "1678455010859"
-    }
-  },
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1678455010859"
-    }
-  }
-},{
-  "_id": {
-    "$oid": "640b30e792e205aa2344cc57"
-  },
-  "title": "Новость 9",
-  "content": "Содержание новости 9",
-  "image": null,
-  "created_at": {
-    "$date": {
-      "$numberLong": "1678455015781"
-    }
-  },
-  "updated_at": {
-    "$date": {
-      "$numberLong": "1678455015781"
+      "$numberLong": "1678474736860"
     }
   }
 }]
