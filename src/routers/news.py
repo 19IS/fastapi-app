@@ -14,11 +14,11 @@ router = APIRouter()
 @router.get('/')
 def get_news(limit: int = 5, page: int = 1):
     skip = (page - 1) * limit
-    posts = newsListEntity(News.find().limit(limit).skip(skip))
+    news = newsListEntity(News.find().limit(limit).skip(skip))
     return {
         'status': 'success',
-        'results': len(posts),
-        'posts': posts
+        'results': len(news),
+        'news': news
     }
 
 
