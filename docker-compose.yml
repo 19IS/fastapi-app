@@ -1,0 +1,28 @@
+version: '3'
+
+services:
+  web_app:
+    restart: always
+    container_name: fastapi_container
+    build: 
+      context: .
+    volumes:
+      - ${PWD}/src:/app/src
+    ports:
+      - "8000:8000"
+    depends_on:
+      - mongo_db
+
+  mongo_db:
+      image: mongo:6.0.2
+      container_name: mongo_db_container
+      restart: always
+      env_file:
+        - docker-compose.env
+      ports:
+        - "27017:27017"
+      volumes:
+        - ${PWD}/.mongodb_data:/var/lib/mongodb/data
+      
+volumes:
+  mongodb_data:

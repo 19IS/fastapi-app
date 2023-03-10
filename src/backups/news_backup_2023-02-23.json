@@ -1,0 +1,137 @@
+[{
+  "_id": {
+    "$oid": "640b30c592e205aa2344cc4f"
+  },
+  "title": "Новость 1",
+  "content": "Содержание новости 1",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678454981755"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678454981755"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30cc92e205aa2344cc50"
+  },
+  "title": "Новость 2",
+  "content": "Содержание новости 2",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678454988433"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678454988433"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30d092e205aa2344cc51"
+  },
+  "title": "Новость 3",
+  "content": "Содержание новости 3",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678454992524"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678454992524"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30d492e205aa2344cc52"
+  },
+  "title": "Новость 4",
+  "content": "Содержание новости 4",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678454996024"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678454996024"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30d792e205aa2344cc53"
+  },
+  "title": "Новость 5",
+  "content": "Содержание новости 5",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678454999691"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678454999691"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30da92e205aa2344cc54"
+  },
+  "title": "Новость 6",
+  "content": "Содержание новости 6",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678455002920"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678455002920"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30e292e205aa2344cc56"
+  },
+  "title": "Новость 8",
+  "content": "Содержание новости 8",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678455010859"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678455010859"
+    }
+  }
+},{
+  "_id": {
+    "$oid": "640b30e792e205aa2344cc57"
+  },
+  "title": "Новость 9",
+  "content": "Содержание новости 9",
+  "image": null,
+  "created_at": {
+    "$date": {
+      "$numberLong": "1678455015781"
+    }
+  },
+  "updated_at": {
+    "$date": {
+      "$numberLong": "1678455015781"
+    }
+  }
+}]
