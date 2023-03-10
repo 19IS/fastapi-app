@@ -28,3 +28,8 @@ docker-compose -f docker-compose.yml up
 
 Для работы с API перейдине на страницу [Интерактивная документация](http://127.0.0.1:8000/docs)
   
+Для запуска тестов откройте контейнер `fastapi_container` и введите команду:
+
+```bash
+python -m pytest .
+```
