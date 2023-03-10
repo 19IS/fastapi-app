@@ -1,5 +1,14 @@
 {% extends "layouts/base.html" %}
 {% block main %}
 
+<div class="container-lg">
+    <h1 class="mt-1 text-center">Главные новости</h1>
+    <div class="row row-cols-1 row-cols-md-2 g4" id="news">
+    </div>
+</div>
 
+{% endblock %}
+
+{% block scrips %}
+<script src="{{ url_for('static', path='/js/home.js')}}"></script>
 {% endblock %}

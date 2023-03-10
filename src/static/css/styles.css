@@ -2,3 +2,7 @@ body {
     background-color: #313539;
     color: aliceblue;
 }
+
+.card-img-top {
+    max-height: 400px;
+}
